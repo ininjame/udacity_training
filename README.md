@@ -6,7 +6,7 @@
  The target this time is a dive into AirBnb data for Seattle area.  
  The exercise includes wrangling data to answer a few business questions, as well as testing a basic predictive model on the created features.
  
- All code can be found in the **analysis2.ipynb** notebook (note the number 2, the one without number is old!).
+ All code can be found in the **analysis2.ipynb** notebook (note the number 2, the one without number is old!).  
  All data used in the notebook is included within this repo.
  The notebook also contains detailed explanations and comments, so I'm keeping the readme short.
  
